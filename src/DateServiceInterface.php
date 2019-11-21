@@ -6,7 +6,7 @@
  * Time: 5:46 PM
  */
 
-namespace packages\sara\src;
+namespace Sara\Serverdate;
 
 
 interface DateServiceInterface
