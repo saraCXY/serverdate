@@ -11,7 +11,7 @@ namespace Sara\Serverdate\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class DateService extends  Facade
+class ServerDate extends  Facade
 {
     protected static function getFacadeAccessor()
 

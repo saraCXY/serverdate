@@ -8,7 +8,6 @@
 
 namespace Sara\Serverdate;
 
-use Carbon\Traits\Date;
 
 class DateService
 {
