@@ -13,7 +13,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Sara\\Serverdate\\OplogServiceProvider"
+                "Sara\\Serverdate\\DateServiceProvider"
             ],
             "aliases": {
                 "Serverdate": "Sara\\Serverdate\\Facades\\Serverdate::class"
