@@ -8,9 +8,6 @@
 
 namespace Sara\Serverdate;
 
-
-use packages\sara\src\DateServiceInterface;
-
 class DateService implements DateServiceInterface
 {
     /**
