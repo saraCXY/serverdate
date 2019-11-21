@@ -16,7 +16,7 @@
                 "Sara\\Serverdate\\DateServiceProvider"
             ],
             "aliases": {
-                "Serverdate": "Sara\\Serverdate\\Facades\\DateService::class"
+                "Serverdate": "Sara\\Serverdate\\Facades\\DateService"
             }
         }
     }
