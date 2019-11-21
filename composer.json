@@ -9,15 +9,5 @@
         "psr-4": {
             "Sara\\Serverdate\\":"src/"
         }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Sara\\Serverdate\\DateServiceProvider"
-            ],
-            "aliases": {
-//                "Serverdate": "Sara\\Serverdate\\Facades\\ServerDate"
-            }
-        }
     }
 }

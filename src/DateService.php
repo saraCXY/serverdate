@@ -9,17 +9,10 @@
 namespace Sara\Serverdate;
 
 
-class DateService
+use packages\sara\src\DateServiceInterface;
+
+class DateService implements DateServiceInterface
 {
-
-
-    public function __construct()
-
-    {
-
-    }
-
-
     /**
 
      * @param string $msg
@@ -30,6 +23,5 @@ class DateService
 
     public function getLocale(){
         return time();
-
     }
 }
